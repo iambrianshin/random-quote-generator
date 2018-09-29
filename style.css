@@ -1,0 +1,51 @@
+body {
+  background-color: #23415c;
+}
+
+h1 {
+  color: #d3c7af;
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+}
+
+p {
+  color: #d3c7af;
+  font-size: 20px;
+}
+
+img {
+  padding: 20px;
+  width: 720px;
+  height: auto;
+}
+
+.quotes {
+  background-color: rgba(255,255,255,0.9);
+  font-size: 20px;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+  border-color: white;
+  border-style: solid;
+  padding: 40px 50px;
+  line-height: 1.5;
+}
+
+.author {
+  font-size: 15px;
+  font-weight: 600;
+  text-align: right;
+  text-transform: uppercase;
+  padding-right: 20px;
+  letter-spacing: 1px;
+}
+
+.btn {
+  opacity: 0.7;
+  margin: 0px 3px;
+  
+}
+.btn:hover {
+  opacity: 1;
+}
